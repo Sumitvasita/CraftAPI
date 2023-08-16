@@ -11,8 +11,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Compatibility with Minecraft 1.7.10+
 * Thread-Safe
 * Usage of modern Java 8 features
-* UUID and skin querying
-* Skin changing
+* UUID and skin quer
 * Rotating multiple outgoing source IPs
 * Throws exceptions to let the user decide how to handle errors
 * Default in-memory cache
